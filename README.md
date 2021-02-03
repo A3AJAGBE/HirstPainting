@@ -7,3 +7,4 @@ Using python turtle graphics to draw Hirst contemporary spot painting. Used colo
 ![Demo](https://github.com/A3AJAGBE/HirstPainting/blob/main/HirstPainting.gif)
 
 
+Check out some examples completed before this project: [Exercises](https://github.com/A3AJAGBE/TurtleGraphics)
